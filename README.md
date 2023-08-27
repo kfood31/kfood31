@@ -31,7 +31,7 @@ K-Food31 은 딥러닝 기반의 한식 사진 분류 및 추천 서비스입니
 - **음식 데이터셋**  
   ① Image Classification & Detection 을 위해 31가지 카테고리로 구성  
   ② 웹사이트 (Google, Daum, Naver, Instagram, 만개의 레시피) 크롤링 및 [AI-Hub](https://aihub.or.kr/) 데이터 이용  
-  ③ 🔺31가지 카테고리*1,500장, 총 46,500장의 사진 이미지 수집🔺  
+  ③ 31가지 카테고리*1,500장, 총 46,500장의 사진 이미지 수집 
   ④ 🔺Train/Test Dataset🔺
 
   
